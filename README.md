@@ -1,5 +1,5 @@
 # TCP-MultiClient
-MultiClient using TCP Socket. Dalam program ini, anda bisa melakukan chat dengan melewati server dan client yang mana menggunakan protocol TCP.
+MultiClient dengan TCP Socket. Dalam program ini, anda bisa melakukan chat dengan melewati server dan client yang mana menggunakan protocol TCP.
 # How to use
 1. Download source code program
 2. Jalankan project server dulu
