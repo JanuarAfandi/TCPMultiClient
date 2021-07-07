@@ -8,4 +8,5 @@ MultiClient using TCP Socket. Dalam program ini, anda bisa melakukan chat dengan
 5. Anda sudah bisa melakukan chat melalui client
 # Flowchart
 # Output Program
-![image](https://user-images.githubusercontent.com/63651972/124755062-1ad03900-df55-11eb-84b3-03caede28f4e.png)
+![image](https://user-images.githubusercontent.com/63651972/124755174-3c312500-df55-11eb-9522-2170aa5195f7.png)
+
